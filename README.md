@@ -1,14 +1,18 @@
 # Plot
 
-Plot mapping & estimator extracted from atom-unhinged/solid-eureka.
+An interactive visualization and planning tool.
 
-## Run
+## Getting Started
 
-Serve with a static server and open `index.html`:
+1. **Download** `index.html`
+2. **Open it** in any modern browser (Chrome, Safari, Firefox, Edge)
+3. That's it — no installation required
 
-```bash
-python3 -m http.server 8000
-# open http://localhost:8000/
-```
+## Features
+
+- Interactive mapping and visualization
+- Real-time calculations
+- Responsive design for desktop and mobile
+- Works offline once loaded
 
 ![Atom Logo](atom-logo.svg)
